@@ -1,7 +1,4 @@
 # apssdc
 sample repositry
-1.Item 1
-2.Item 2
-3.Item 3
-  * Item 3a
-  * Item 3b
+![GitHub Logo](/images/logo.png)
+![virat]https://m.economictimes.com/thumb/msid-71917504,width-1200,height-900,resizemode-4,imgsize-623426/untitled-3.jpg)
